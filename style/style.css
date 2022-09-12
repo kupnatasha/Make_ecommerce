@@ -84,6 +84,62 @@
     width: 187px;
     margin-left: 9px;
 }
+.grow{
+    margin: 136px auto; 
+}
+.grow_title{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 45px;
+    color: #1C1C1C;
+    max-width: 415px;
+}
+.grow_flex{
+    display: flex;
+    gap: 34px;
+}
+.grow_element{
+    max-width: 333px;
+    text-align: center;
+}
+.grow_item{
+    padding: 35px 0 85px;
+    box-shadow: 0px 2px 4px rgba(192, 192, 192, 0.5);
+    border-radius: 0px 0px 7px 7px;
+}
+.grow_pretitle{
+    font-size: 26px;
+    line-height: 22px;
+    margin-bottom: 28px;
+}
+.grow_text{
+    font-size: 18px;
+    line-height: 22px;
+    color: #6F2CFF;
+    max-width: 219px;
+    margin: 0 auto;
+}
+.frame{
+    margin-bottom: 136px;
+    text-align: center;
+}
+.flame_title{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 45px;
+    margin-bottom: 79px;
+}
+.flame_pretitle{
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 23px;
+    margin: 42px 0 16px;
+}
+.flame_text{
+    font-size: 15px;
+    line-height: 22px;
+    max-width: 316px;
+}
 .footer{
     background: #20003C;
     padding: 58px 0;
